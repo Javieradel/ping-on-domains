@@ -1,5 +1,8 @@
 <?php
-
+    #task
+    # agrupar dominios por nombre
+    # ejemplo lol -> dominio 1 = XX ms , dominio 2 = XX ms, dominio 3 = XX ms
+    # manejo de errores en valor de dominio   
     $domains=['google.com','logon.warmane.com','facebook.com'];
 
 
